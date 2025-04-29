@@ -76,25 +76,29 @@ Add screenshots here if you want to show login screen, OTP verification, file se
 ## 📂 Project Structure
 
 
-file-hider-java/
+FileHiding/
+├── pom.xml
 ├── src/
-│   ├── auth/
-│   │   └── EmailSender.java
-│   │   └── OTPManager.java
-│   ├── db/
-│   │   └── DatabaseConnector.java
-│   ├── encryption/
-│   │   └── FileEncryptor.java
-│   ├── ui/
-│   │   └── LoginScreen.java
-│   │   └── MainScreen.java
-│   ├── utils/
-│   │   └── FileUtils.java
-│   └── Main.java
-├── README.md
-├── database.sql
-└── libs/
-    └── javax.mail.jar
+│   └── main/
+│       ├── java/
+│       │   ├── dao/
+│       │   ├── db/
+│       │   ├── model/
+│       │   ├── org/example/
+│       │   ├── service/
+│       │   ├── views/
+│       │   └── Main.java
+│       └── resources/
+├── target/
+│   └── classes/
+│       ├── dao/
+│       ├── db/
+│       ├── model/
+│       ├── org/example/
+│       ├── service/
+│       ├── views/
+│       └── Main.class
+
 
 
 ---
