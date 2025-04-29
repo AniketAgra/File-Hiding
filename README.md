@@ -75,7 +75,6 @@ Add screenshots here if you want to show login screen, OTP verification, file se
 
 ## 📂 Project Structure
 
-
 FileHiding/
 ├── pom.xml
 ├── src/
@@ -98,8 +97,6 @@ FileHiding/
 │       ├── service/
 │       ├── views/
 │       └── Main.class
-
-
 
 ---
 
