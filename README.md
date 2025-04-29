@@ -75,28 +75,7 @@ Add screenshots here if you want to show login screen, OTP verification, file se
 
 ## 📂 Project Structure
 
-FileHiding/
-├── pom.xml
-├── src/
-│   └── main/
-│       ├── java/
-│       │   ├── dao/
-│       │   ├── db/
-│       │   ├── model/
-│       │   ├── org/example/
-│       │   ├── service/
-│       │   ├── views/
-│       │   └── Main.java
-│       └── resources/
-├── target/
-│   └── classes/
-│       ├── dao/
-│       ├── db/
-│       ├── model/
-│       ├── org/example/
-│       ├── service/
-│       ├── views/
-│       └── Main.class
+!(https://postimg.cc/RNMXxt4M)
 
 ---
 
