@@ -67,15 +67,9 @@ By building this project, you will learn:
 
 ---
 
-## 📸 Screenshots (Optional)
-
-Add screenshots here if you want to show login screen, OTP verification, file selection UI, etc.
-
----
-
 ## 📂 Project Structure
 
-!(https://postimg.cc/RNMXxt4M)
+!(https://media-hosting.imagekit.io/b8d572a0349f4038/WhatsApp%20Image%202025-04-29%20at%2015.53.37_827af903.jpg?Expires=1840531111&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=mh7UKb9C8OhfMrelLDhY4O0f32gGcnnni2oKyyIb8UZegashmpOe0sy5UwyhliOXvFSWzNTnskdmXNIGjC1KDNMrZlM~nsOk7-5E~kkKqNXTyrA7C3WcQjLzXdXgAqjggB069Ts8E8hYxgcukAEIpuAfrBCCz01CjJog-ZOkR~-XDKA~jX4hntI67oN1IEnqHCiX8az3Rio26So-zB22vOHTUca3oZlBpq04pJ2MxpBss0gHGjcLqos4T8Qdjo80kDqMXS3EmWy5kLjZbrnwNnFxgHx4qCczRWo9qc40e6q90OUFMmyXO9-zqZHHTDp4tvk-fJSXyJJGLzwvjPMk7w__)
 
 ---
 
