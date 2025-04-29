@@ -69,7 +69,7 @@ By building this project, you will learn:
 
 ## 📂 Project Structure
 
-![Description of the Image](https://media-hosting.imagekit.io/b8d572a0349f4038/WhatsApp%20Image%202025-04-29%20at%2015.53.37_827af903.jpg?Expires=1840531111&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=mh7UKb9C8OhfMrelLDhY4O0f32gGcnnni2oKyyIb8UZegashmpOe0sy5UwyhliOXvFSWzNTnskdmXNIGjC1KDNMrZlM~nsOk7-5E~kkKqNXTyrA7C3WcQjLzXdXgAqjggB069Ts8E8hYxgcukAEIpuAfrBCCz01CjJog-ZOkR~-XDKA~jX4hntI67oN1IEnqHCiX8az3Rio26So-zB22vOHTUca3oZlBpq04pJ2MxpBss0gHGjcLqos4T8Qdjo80kDqMXS3EmWy5kLjZbrnwNnFxgHx4qCczRWo9qc40e6q90OUFMmyXO9-zqZHHTDp4tvk-fJSXyJJGLzwvjPMk7w__ "Optional Title")
+![Description of the Image](https://media-hosting.imagekit.io/8582c718adcd436b/WhatsApp%20Image%202025-04-29%20at%2015.53.37_dfabda49.jpg?Expires=1840531564&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=aNHM7GB5XymYloYo0YBkr5CGX3p6V4~3Jq4eqc1xdqq~0z~5VfbI784yF1Kf4gqs06w15mVvJtIF1zr1SLtyZH9UcRXP7uwvB2vD9STVoWutD3rAhIpImIG3BXqhYlgUZG7EyL2OFPxXtsiU-lAqcXoXc~34xzG7uZGiGrjg6rdqIuUuk~Myi4NTgHS4XiH3tuBdwSfVf~EhILSZ4llpdLT9J6YLnY-HmD~JZvJvQX1WcHc-vVNt3KQtlKDBx27hETn38RAv~dIrEVKNn7BpxWy~3PWiwYHQO5XFOtCBY2WOnQJE0cdC1vZYSHKjFSvD-t~BNU0IKaqK117w7wJ4ug__"Optional Title")
 
 ---
 
